@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppESP32Example1</string>
+    <string name="bottom_home">Home</string>
+    <string name="bottom_warning">Warning</string>
+    <string name="bottom_account">Account</string>
+    <string name="nav_history">History</string>
+    <string name="nav_account">My Profile</string>
+    <string name="nav_setting">Setting</string>
+    <string name="nav_log_out">Log Out</string>
+
+</resources>
