@@ -16,6 +16,9 @@ public class MainActivity extends AppCompatActivity {
     private MyViewPagerAdapter myViewPagerAdapter;
 
     private BottomNavigationView bottomNavigationView;
+
+    String github = "Đây là dữ liệu mới";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
